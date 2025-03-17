@@ -34,5 +34,4 @@ imdb_scraper.ipynb: My Jupyter Notebook with all the code and notes.
 Project_Report.md: My report about the project.
 README.md: This file!
 
-Thanks
 Thanks for checking out my project! I had fun learning how to scrape websites.
